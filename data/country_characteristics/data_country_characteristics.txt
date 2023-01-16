@@ -1,0 +1,18 @@
+Infant mortality rate
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/infant-mortality-rate-(probability-of-dying-between-birth-and-age-1-per-1000-live-births)
+
+
+education level per country (europe)
+https://ec.europa.eu/eurostat/databrowser/view/edat_lfs_9903/default/table?lang=en
+
+real gdp per capita (europe)
+https://ec.europa.eu/eurostat/databrowser/view/edat_lfs_9903/default/table?lang=en
+
+vaccine schedules (europe)
+https://vaccine-schedule.ecdc.europa.eu
+
+für die Mandate eher vaccine-schedule verwenden
+(impflan österreich 2014-2021:
+https://www.meduniwien.ac.at/hp/fileadmin/tropenmedizin/Dokumente_Barbara/Impfplan_2021/Impfplan_Österreich_2021.pdf
+)
+
