@@ -1,0 +1,9 @@
+tuberculosis
+diptheria
+tetanus
+hepatitis b
+measels
+pertussis
+
+for all of europe
+there is a absolute number and change rate in the file
